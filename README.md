@@ -1,5 +1,6 @@
 # README
-This project is the source code for the Paper：PHSGCL: Prompt-enhanced Hyperbolic Scattering Graph Contrastive Learning
+This project is the source code for the Paper：PHSGCL: Prompt-enhanced Hyperbolic Scattering Graph Contrastive Learning.
+
 This project employs a unified data loading interface. `hycrod/data.py -> load_dataset()`，  
 **The training entry point remains unchanged.**，Uniformly run through the following methods：
 
