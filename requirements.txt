@@ -1,0 +1,12 @@
+torch>=2.1
+torch_geometric>=2.5
+torch_scatter
+torch_sparse
+torch_cluster
+torch_spline_conv
+geoopt>=0.5.0
+numpy
+scipy
+scikit-learn
+tqdm
+pyyaml
